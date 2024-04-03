@@ -1,0 +1,6 @@
+
+
+1. jwt
+2. migrate mql db
+3. deployement
+4. queues 
